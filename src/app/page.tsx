@@ -19,6 +19,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { ToggleTheme } from "@/components/theme-toggle";
+import { UserButton } from "@stackframe/stack";
 
 export default function Home() {
   return (
@@ -27,6 +28,7 @@ export default function Home() {
         <span className="flex flex-row gap-2">
           <h1 className="bold text-2xl">Card Component from shadCn</h1>
           <ToggleTheme></ToggleTheme>
+          <UserButton></UserButton>
         </span>
         <Card className="w-[350px]">
           <CardHeader>
