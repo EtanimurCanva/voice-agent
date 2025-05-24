@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 ## initialize env variables 
-NEXT_PUBLIC_STACK_PROJECT_ID=""
-NEXT_PUBLIC_STACK_PUBLISHABLE_CLIENT_KEY=""
-STACK_SECRET_SERVER_KEY=""
+* NEXT_PUBLIC_STACK_PROJECT_ID=""
+* NEXT_PUBLIC_STACK_PUBLISHABLE_CLIENT_KEY=""
+* STACK_SECRET_SERVER_KEY=""
 
